@@ -20,3 +20,17 @@ input
     text-align: center;
     background-color: grey;
 }
+
+#achivement{
+    font-size: 30px;
+}
+
+#library{
+    
+    height: 350px;
+    width: 350px;
+}
+
+h2{
+    background-color: deepskyblue;
+}
